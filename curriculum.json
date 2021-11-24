@@ -1,0 +1,69 @@
+
+{
+"sobre": 
+    {
+    "desc": "Frequento o 2ºano em Tecnologias da Informação na Unversidade de Aveiro e o meu desejo é ter uma carreira em desenvolvimento web. Descrevo-me como uma pessoa persistente, que aprende rápido, com capacidade para desempenhar vários tipos de tarefas sozinho ou em equipa e com um forte desejo de aprender e enfrentar novos desafios, de forma a melhorar as minhas habilidades.",
+    "idade": "33",
+    "nome": "Bernardo Maggioli",
+    "profissao": "Junior web Developer, Front-End Developer",
+    "email": "bernardoestrela@hotmail.com",
+    "telemovel": "913995634"
+    },
+    
+"competencias":
+    {
+    "nome": "HTML, CSS JavaScript, PHP, SQL, Java",
+
+    },
+
+"educacao": [
+    {
+        "instituicao": "Escola Superior de Tecnologia e Gestão de Águeda (ESTGA/UA)",
+        "curso": "Tecnologias da Informação",
+        "grau": "Licenciatura",
+        "data:": "2019 - Presente"
+    },
+    {
+        "instituicao": "Master Distância, Lda - Coimbra",
+        "curso": "Marketing Digital",
+        "grau": "Especialização",
+        "data:": "2014 - 2015"
+    }
+],
+
+"experienciaProfissional": [
+    {
+        "empresa": "Stats Perform - Sports Data: Sports AI, Technology, Data Feeds",
+        "descricao": "Enviar eventos em tempo real, através de uma aplicação específica." ,
+        "data:": "2020 - Presente"
+    },
+    {
+        "empresa": "Openquest/Atra, Aveiro",
+        "descricao": "Análise de sites (google analytics) e sugestões de melhoria, análise de páginas web e criação de estratégias de SEO",
+        "data:": "2015 - 2016"
+    }
+],
+
+"projetos":[
+
+    {
+        "nome": "EasySaving",
+        "desc": "Aplicação para ajudar as pessoas a gerir as suas finanças pessoais. Permite o registo de receitas, despesas e investimentos em vários tipos de produtos financeiros e oferece ao utilizador visualizações estéticas e de leitura simples, recorrendo a gráficos e tabelas.",
+        "imgURL": "https://i.imgur.com/UUSFUUI.png"
+        
+    },
+    {
+        "nome": "FutStats",
+        "desc": "Aplicação de armazenamento de dados estatísticos de um jogador de futebol durante ou após um jogo realizado pelo mesmo.",
+        "imgURL": "https://i.imgur.com/UUSFUUI.png"
+    
+    },
+    {
+        "nome": "Trash Catcher",
+        "desc": "Jogo de conscientização ambiental, que mostra ao utilizador que não é difícil fazer a sua parte para contribuir na proteção do meio ambiente.",
+        "imgURL": "https://i.imgur.com/MjR11OG.png"
+
+    }
+]
+
+}
